@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">AsylumEscape</string>
+    <string name="asylum_escape_title">Asylum Escape Title</string>
+    <string name="patient_record">PATIENT RECORD</string>
+    <string name="re_year_1853">RE - YEAR 1853</string>
+    <string name="fastest_attempts">FASTEST ATTEMPTS:</string>
+    <string name="successful_attempts">NUMBER OF SUCCESSFUL \nATTEMPTS:</string>
+    <string name="failed_attemps">NUMBER OF FAILED \nATTEMPTS:</string>
+    <string name="total_attempts">TOTAL ATTEMPTS:</string>
+    <string name="mc_year_1853">MC - YEAR 1853</string>
+    <string name="re_instructions">Images will be flashed on the screen at random. When the image switches from Neutral to Safe, you must click the screen as fast as you can. Otherwise do NOT click the image. The faster you respond, the sooner you\'ll get out.</string>
+    <string name="choices">Choices</string>
+    <string name="start_button">START</string>
+    <string name="giveup_button">GIVE UP</string>
+    <string name="safe_status">Safe Status</string>
+    <string name="not_safe_status">Not safe Status</string>
+    <string name="successful_escape">PATIENT RELEASE \nFORM</string>
+    <string name="attempts">0</string>
+    <string name="back">Back</string>
+    <string name="start_game">Start Game</string>
+</resources>

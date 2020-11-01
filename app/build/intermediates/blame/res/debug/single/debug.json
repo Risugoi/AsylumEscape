@@ -1,0 +1,418 @@
+[
+    {
+        "merged": "D:\\CS128-8L\\AsylumEscape\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_title.png.flat",
+        "source": "D:\\CS128-8L\\AsylumEscape\\app\\src\\main\\res\\drawable-xhdpi\\title.png"
+    },
+    {
+        "merged": "D:\\CS128-8L\\AsylumEscape\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_mcbg.jpg.flat",
+        "source": "D:\\CS128-8L\\AsylumEscape\\app\\src\\main\\res\\drawable-xhdpi\\mcbg.jpg"
+    },
+    {
+        "merged": "D:\\CS128-8L\\AsylumEscape\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_re.png.flat",
+        "source": "D:\\CS128-8L\\AsylumEscape\\app\\src\\main\\res\\drawable-xhdpi\\re.png"
+    },
+    {
+        "merged": "D:\\CS128-8L\\AsylumEscape\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_start.png.flat",
+        "source": "D:\\CS128-8L\\AsylumEscape\\app\\src\\main\\res\\drawable-xhdpi\\start.png"
+    },
+    {
+        "merged": "D:\\CS128-8L\\AsylumEscape\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\CS128-8L\\AsylumEscape\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\CS128-8L\\AsylumEscape\\app\\build\\intermediates\\res\\merged\\debug\\layout_story_container.xml.flat",
+        "source": "D:\\CS128-8L\\AsylumEscape\\app\\src\\main\\res\\layout\\story_container.xml"
+    },
+    {
+        "merged": "D:\\CS128-8L\\AsylumEscape\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "D:\\CS128-8L\\AsylumEscape\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "D:\\CS128-8L\\AsylumEscape\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "D:\\CS128-8L\\AsylumEscape\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "D:\\CS128-8L\\AsylumEscape\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_re_notsafe3.xml.flat",
+        "source": "D:\\CS128-8L\\AsylumEscape\\app\\src\\main\\res\\layout\\activity_re_notsafe3.xml"
+    },
+    {
+        "merged": "D:\\CS128-8L\\AsylumEscape\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_patient_release.jpg.flat",
+        "source": "D:\\CS128-8L\\AsylumEscape\\app\\src\\main\\res\\drawable-xhdpi\\patient_release.jpg"
+    },
+    {
+        "merged": "D:\\CS128-8L\\AsylumEscape\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_card9.png.flat",
+        "source": "D:\\CS128-8L\\AsylumEscape\\app\\src\\main\\res\\drawable-xhdpi\\card9.png"
+    },
+    {
+        "merged": "D:\\CS128-8L\\AsylumEscape\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_leaderboards.xml.flat",
+        "source": "D:\\CS128-8L\\AsylumEscape\\app\\src\\main\\res\\layout\\activity_leaderboards.xml"
+    },
+    {
+        "merged": "D:\\CS128-8L\\AsylumEscape\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_cardmon.png.flat",
+        "source": "D:\\CS128-8L\\AsylumEscape\\app\\src\\main\\res\\drawable-xhdpi\\cardmon.png"
+    },
+    {
+        "merged": "D:\\CS128-8L\\AsylumEscape\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_card2.png.flat",
+        "source": "D:\\CS128-8L\\AsylumEscape\\app\\src\\main\\res\\drawable-xhdpi\\card2.png"
+    },
+    {
+        "merged": "D:\\CS128-8L\\AsylumEscape\\app\\build\\intermediates\\res\\merged\\debug\\raw_scream_appear.mp3.flat",
+        "source": "D:\\CS128-8L\\AsylumEscape\\app\\src\\main\\res\\raw\\scream_appear.mp3"
+    },
+    {
+        "merged": "D:\\CS128-8L\\AsylumEscape\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_mc.png.flat",
+        "source": "D:\\CS128-8L\\AsylumEscape\\app\\src\\main\\res\\drawable-xhdpi\\mc.png"
+    },
+    {
+        "merged": "D:\\CS128-8L\\AsylumEscape\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_cardchoices.png.flat",
+        "source": "D:\\CS128-8L\\AsylumEscape\\app\\src\\main\\res\\drawable-xhdpi\\cardchoices.png"
+    },
+    {
+        "merged": "D:\\CS128-8L\\AsylumEscape\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_mirroredcards_game.xml.flat",
+        "source": "D:\\CS128-8L\\AsylumEscape\\app\\src\\main\\res\\layout\\activity_mirroredcards_game.xml"
+    },
+    {
+        "merged": "D:\\CS128-8L\\AsylumEscape\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\CS128-8L\\AsylumEscape\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\CS128-8L\\AsylumEscape\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_game_home.xml.flat",
+        "source": "D:\\CS128-8L\\AsylumEscape\\app\\src\\main\\res\\layout\\activity_game_home.xml"
+    },
+    {
+        "merged": "D:\\CS128-8L\\AsylumEscape\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "D:\\CS128-8L\\AsylumEscape\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\CS128-8L\\AsylumEscape\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_mc_leaderboard.xml.flat",
+        "source": "D:\\CS128-8L\\AsylumEscape\\app\\src\\main\\res\\layout\\activity_mc_leaderboard.xml"
+    },
+    {
+        "merged": "D:\\CS128-8L\\AsylumEscape\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "D:\\CS128-8L\\AsylumEscape\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\CS128-8L\\AsylumEscape\\app\\build\\intermediates\\res\\merged\\debug\\font_cousine.xml.flat",
+        "source": "D:\\CS128-8L\\AsylumEscape\\app\\src\\main\\res\\font\\cousine.xml"
+    },
+    {
+        "merged": "D:\\CS128-8L\\AsylumEscape\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_home2.png.flat",
+        "source": "D:\\CS128-8L\\AsylumEscape\\app\\src\\main\\res\\drawable-xhdpi\\home2.png"
+    },
+    {
+        "merged": "D:\\CS128-8L\\AsylumEscape\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_card1.png.flat",
+        "source": "D:\\CS128-8L\\AsylumEscape\\app\\src\\main\\res\\drawable-xhdpi\\card1.png"
+    },
+    {
+        "merged": "D:\\CS128-8L\\AsylumEscape\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_choices.png.flat",
+        "source": "D:\\CS128-8L\\AsylumEscape\\app\\src\\main\\res\\drawable-xhdpi\\choices.png"
+    },
+    {
+        "merged": "D:\\CS128-8L\\AsylumEscape\\app\\build\\intermediates\\res\\merged\\debug\\raw_story_bgm.mp3.flat",
+        "source": "D:\\CS128-8L\\AsylumEscape\\app\\src\\main\\res\\raw\\story_bgm.mp3"
+    },
+    {
+        "merged": "D:\\CS128-8L\\AsylumEscape\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_notsafe2.jpg.flat",
+        "source": "D:\\CS128-8L\\AsylumEscape\\app\\src\\main\\res\\drawable-xhdpi\\notsafe2.jpg"
+    },
+    {
+        "merged": "D:\\CS128-8L\\AsylumEscape\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "D:\\CS128-8L\\AsylumEscape\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\CS128-8L\\AsylumEscape\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_card8.png.flat",
+        "source": "D:\\CS128-8L\\AsylumEscape\\app\\src\\main\\res\\drawable-xhdpi\\card8.png"
+    },
+    {
+        "merged": "D:\\CS128-8L\\AsylumEscape\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_icon.png.flat",
+        "source": "D:\\CS128-8L\\AsylumEscape\\app\\src\\main\\res\\drawable-xhdpi\\icon.png"
+    },
+    {
+        "merged": "D:\\CS128-8L\\AsylumEscape\\app\\build\\intermediates\\res\\merged\\debug\\raw_home_bgm.mp3.flat",
+        "source": "D:\\CS128-8L\\AsylumEscape\\app\\src\\main\\res\\raw\\home_bgm.mp3"
+    },
+    {
+        "merged": "D:\\CS128-8L\\AsylumEscape\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_story5.jpg.flat",
+        "source": "D:\\CS128-8L\\AsylumEscape\\app\\src\\main\\res\\drawable-xhdpi\\story5.jpg"
+    },
+    {
+        "merged": "D:\\CS128-8L\\AsylumEscape\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "D:\\CS128-8L\\AsylumEscape\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "D:\\CS128-8L\\AsylumEscape\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_mirroredcards_home.xml.flat",
+        "source": "D:\\CS128-8L\\AsylumEscape\\app\\src\\main\\res\\layout\\activity_mirroredcards_home.xml"
+    },
+    {
+        "merged": "D:\\CS128-8L\\AsylumEscape\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_reflexescape_home.xml.flat",
+        "source": "D:\\CS128-8L\\AsylumEscape\\app\\src\\main\\res\\layout\\activity_reflexescape_home.xml"
+    },
+    {
+        "merged": "D:\\CS128-8L\\AsylumEscape\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_re_notsafe2.xml.flat",
+        "source": "D:\\CS128-8L\\AsylumEscape\\app\\src\\main\\res\\layout\\activity_re_notsafe2.xml"
+    },
+    {
+        "merged": "D:\\CS128-8L\\AsylumEscape\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_leaderboard.png.flat",
+        "source": "D:\\CS128-8L\\AsylumEscape\\app\\src\\main\\res\\drawable-xhdpi\\leaderboard.png"
+    },
+    {
+        "merged": "D:\\CS128-8L\\AsylumEscape\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_story3.jpg.flat",
+        "source": "D:\\CS128-8L\\AsylumEscape\\app\\src\\main\\res\\drawable-xhdpi\\story3.jpg"
+    },
+    {
+        "merged": "D:\\CS128-8L\\AsylumEscape\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_re_notsuccessful.xml.flat",
+        "source": "D:\\CS128-8L\\AsylumEscape\\app\\src\\main\\res\\layout\\activity_re_notsuccessful.xml"
+    },
+    {
+        "merged": "D:\\CS128-8L\\AsylumEscape\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_leaderboards_title.png.flat",
+        "source": "D:\\CS128-8L\\AsylumEscape\\app\\src\\main\\res\\drawable-xhdpi\\leaderboards_title.png"
+    },
+    {
+        "merged": "D:\\CS128-8L\\AsylumEscape\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_story12.jpg.flat",
+        "source": "D:\\CS128-8L\\AsylumEscape\\app\\src\\main\\res\\drawable-xhdpi\\story12.jpg"
+    },
+    {
+        "merged": "D:\\CS128-8L\\AsylumEscape\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_re_notsafe.xml.flat",
+        "source": "D:\\CS128-8L\\AsylumEscape\\app\\src\\main\\res\\layout\\activity_re_notsafe.xml"
+    },
+    {
+        "merged": "D:\\CS128-8L\\AsylumEscape\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_card7.png.flat",
+        "source": "D:\\CS128-8L\\AsylumEscape\\app\\src\\main\\res\\drawable-xhdpi\\card7.png"
+    },
+    {
+        "merged": "D:\\CS128-8L\\AsylumEscape\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_story6.jpg.flat",
+        "source": "D:\\CS128-8L\\AsylumEscape\\app\\src\\main\\res\\drawable-xhdpi\\story6.jpg"
+    },
+    {
+        "merged": "D:\\CS128-8L\\AsylumEscape\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_disc1.jpg.flat",
+        "source": "D:\\CS128-8L\\AsylumEscape\\app\\src\\main\\res\\drawable-xhdpi\\disc1.jpg"
+    },
+    {
+        "merged": "D:\\CS128-8L\\AsylumEscape\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_notsafe4.jpg.flat",
+        "source": "D:\\CS128-8L\\AsylumEscape\\app\\src\\main\\res\\drawable-xhdpi\\notsafe4.jpg"
+    },
+    {
+        "merged": "D:\\CS128-8L\\AsylumEscape\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_reflexescape_game.xml.flat",
+        "source": "D:\\CS128-8L\\AsylumEscape\\app\\src\\main\\res\\layout\\activity_reflexescape_game.xml"
+    },
+    {
+        "merged": "D:\\CS128-8L\\AsylumEscape\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_start_game.png.flat",
+        "source": "D:\\CS128-8L\\AsylumEscape\\app\\src\\main\\res\\drawable-xhdpi\\start_game.png"
+    },
+    {
+        "merged": "D:\\CS128-8L\\AsylumEscape\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "D:\\CS128-8L\\AsylumEscape\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\CS128-8L\\AsylumEscape\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_re_successful.xml.flat",
+        "source": "D:\\CS128-8L\\AsylumEscape\\app\\src\\main\\res\\layout\\activity_re_successful.xml"
+    },
+    {
+        "merged": "D:\\CS128-8L\\AsylumEscape\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_re_homebg.jpg.flat",
+        "source": "D:\\CS128-8L\\AsylumEscape\\app\\src\\main\\res\\drawable-xhdpi\\re_homebg.jpg"
+    },
+    {
+        "merged": "D:\\CS128-8L\\AsylumEscape\\app\\build\\intermediates\\res\\merged\\debug\\raw_re_bgm.mp3.flat",
+        "source": "D:\\CS128-8L\\AsylumEscape\\app\\src\\main\\res\\raw\\re_bgm.mp3"
+    },
+    {
+        "merged": "D:\\CS128-8L\\AsylumEscape\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_re_safe.xml.flat",
+        "source": "D:\\CS128-8L\\AsylumEscape\\app\\src\\main\\res\\layout\\activity_re_safe.xml"
+    },
+    {
+        "merged": "D:\\CS128-8L\\AsylumEscape\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "D:\\CS128-8L\\AsylumEscape\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "D:\\CS128-8L\\AsylumEscape\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "D:\\CS128-8L\\AsylumEscape\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "D:\\CS128-8L\\AsylumEscape\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_card5.png.flat",
+        "source": "D:\\CS128-8L\\AsylumEscape\\app\\src\\main\\res\\drawable-xhdpi\\card5.png"
+    },
+    {
+        "merged": "D:\\CS128-8L\\AsylumEscape\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_tryagain.jpg.flat",
+        "source": "D:\\CS128-8L\\AsylumEscape\\app\\src\\main\\res\\drawable-xhdpi\\tryagain.jpg"
+    },
+    {
+        "merged": "D:\\CS128-8L\\AsylumEscape\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_home_photo.jpg.flat",
+        "source": "D:\\CS128-8L\\AsylumEscape\\app\\src\\main\\res\\drawable-xhdpi\\home_photo.jpg"
+    },
+    {
+        "merged": "D:\\CS128-8L\\AsylumEscape\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "D:\\CS128-8L\\AsylumEscape\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\CS128-8L\\AsylumEscape\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_re_leaderboard.xml.flat",
+        "source": "D:\\CS128-8L\\AsylumEscape\\app\\src\\main\\res\\layout\\activity_re_leaderboard.xml"
+    },
+    {
+        "merged": "D:\\CS128-8L\\AsylumEscape\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_try_again.png.flat",
+        "source": "D:\\CS128-8L\\AsylumEscape\\app\\src\\main\\res\\drawable-xhdpi\\try_again.png"
+    },
+    {
+        "merged": "D:\\CS128-8L\\AsylumEscape\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_safe.jpg.flat",
+        "source": "D:\\CS128-8L\\AsylumEscape\\app\\src\\main\\res\\drawable-xhdpi\\safe.jpg"
+    },
+    {
+        "merged": "D:\\CS128-8L\\AsylumEscape\\app\\build\\intermediates\\res\\merged\\debug\\font_source_code_pro.xml.flat",
+        "source": "D:\\CS128-8L\\AsylumEscape\\app\\src\\main\\res\\font\\source_code_pro.xml"
+    },
+    {
+        "merged": "D:\\CS128-8L\\AsylumEscape\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_neutral.jpg.flat",
+        "source": "D:\\CS128-8L\\AsylumEscape\\app\\src\\main\\res\\drawable-xhdpi\\neutral.jpg"
+    },
+    {
+        "merged": "D:\\CS128-8L\\AsylumEscape\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_story9.jpg.flat",
+        "source": "D:\\CS128-8L\\AsylumEscape\\app\\src\\main\\res\\drawable-xhdpi\\story9.jpg"
+    },
+    {
+        "merged": "D:\\CS128-8L\\AsylumEscape\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_story1.jpg.flat",
+        "source": "D:\\CS128-8L\\AsylumEscape\\app\\src\\main\\res\\drawable-xhdpi\\story1.jpg"
+    },
+    {
+        "merged": "D:\\CS128-8L\\AsylumEscape\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "D:\\CS128-8L\\AsylumEscape\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "D:\\CS128-8L\\AsylumEscape\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_skip.png.flat",
+        "source": "D:\\CS128-8L\\AsylumEscape\\app\\src\\main\\res\\drawable-xhdpi\\skip.png"
+    },
+    {
+        "merged": "D:\\CS128-8L\\AsylumEscape\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_story2.jpg.flat",
+        "source": "D:\\CS128-8L\\AsylumEscape\\app\\src\\main\\res\\drawable-xhdpi\\story2.jpg"
+    },
+    {
+        "merged": "D:\\CS128-8L\\AsylumEscape\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_card4.png.flat",
+        "source": "D:\\CS128-8L\\AsylumEscape\\app\\src\\main\\res\\drawable-xhdpi\\card4.png"
+    },
+    {
+        "merged": "D:\\CS128-8L\\AsylumEscape\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "D:\\CS128-8L\\AsylumEscape\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "D:\\CS128-8L\\AsylumEscape\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_story8.jpg.flat",
+        "source": "D:\\CS128-8L\\AsylumEscape\\app\\src\\main\\res\\drawable-xhdpi\\story8.jpg"
+    },
+    {
+        "merged": "D:\\CS128-8L\\AsylumEscape\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "D:\\CS128-8L\\AsylumEscape\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "D:\\CS128-8L\\AsylumEscape\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_story11.jpg.flat",
+        "source": "D:\\CS128-8L\\AsylumEscape\\app\\src\\main\\res\\drawable-xhdpi\\story11.jpg"
+    },
+    {
+        "merged": "D:\\CS128-8L\\AsylumEscape\\app\\build\\intermediates\\res\\merged\\debug\\font_special_elite.ttf.flat",
+        "source": "D:\\CS128-8L\\AsylumEscape\\app\\src\\main\\res\\font\\special_elite.ttf"
+    },
+    {
+        "merged": "D:\\CS128-8L\\AsylumEscape\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_buttonbg.png.flat",
+        "source": "D:\\CS128-8L\\AsylumEscape\\app\\src\\main\\res\\drawable-xhdpi\\buttonbg.png"
+    },
+    {
+        "merged": "D:\\CS128-8L\\AsylumEscape\\app\\build\\intermediates\\res\\merged\\debug\\font_anaheim.xml.flat",
+        "source": "D:\\CS128-8L\\AsylumEscape\\app\\src\\main\\res\\font\\anaheim.xml"
+    },
+    {
+        "merged": "D:\\CS128-8L\\AsylumEscape\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "D:\\CS128-8L\\AsylumEscape\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\CS128-8L\\AsylumEscape\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_rebg.jpg.flat",
+        "source": "D:\\CS128-8L\\AsylumEscape\\app\\src\\main\\res\\drawable-xhdpi\\rebg.jpg"
+    },
+    {
+        "merged": "D:\\CS128-8L\\AsylumEscape\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_disc2.jpg.flat",
+        "source": "D:\\CS128-8L\\AsylumEscape\\app\\src\\main\\res\\drawable-xhdpi\\disc2.jpg"
+    },
+    {
+        "merged": "D:\\CS128-8L\\AsylumEscape\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_back.png.flat",
+        "source": "D:\\CS128-8L\\AsylumEscape\\app\\src\\main\\res\\drawable-xhdpi\\back.png"
+    },
+    {
+        "merged": "D:\\CS128-8L\\AsylumEscape\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "D:\\CS128-8L\\AsylumEscape\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\CS128-8L\\AsylumEscape\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_story7.jpg.flat",
+        "source": "D:\\CS128-8L\\AsylumEscape\\app\\src\\main\\res\\drawable-xhdpi\\story7.jpg"
+    },
+    {
+        "merged": "D:\\CS128-8L\\AsylumEscape\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_mc_homebg.jpg.flat",
+        "source": "D:\\CS128-8L\\AsylumEscape\\app\\src\\main\\res\\drawable-xhdpi\\mc_homebg.jpg"
+    },
+    {
+        "merged": "D:\\CS128-8L\\AsylumEscape\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_notsafe.jpg.flat",
+        "source": "D:\\CS128-8L\\AsylumEscape\\app\\src\\main\\res\\drawable-xhdpi\\notsafe.jpg"
+    },
+    {
+        "merged": "D:\\CS128-8L\\AsylumEscape\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_cardflipped.png.flat",
+        "source": "D:\\CS128-8L\\AsylumEscape\\app\\src\\main\\res\\drawable-xhdpi\\cardflipped.png"
+    },
+    {
+        "merged": "D:\\CS128-8L\\AsylumEscape\\app\\build\\intermediates\\res\\merged\\debug\\raw_mc_bgm.mp3.flat",
+        "source": "D:\\CS128-8L\\AsylumEscape\\app\\src\\main\\res\\raw\\mc_bgm.mp3"
+    },
+    {
+        "merged": "D:\\CS128-8L\\AsylumEscape\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "D:\\CS128-8L\\AsylumEscape\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "D:\\CS128-8L\\AsylumEscape\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_safety.png.flat",
+        "source": "D:\\CS128-8L\\AsylumEscape\\app\\src\\main\\res\\drawable-xhdpi\\safety.png"
+    },
+    {
+        "merged": "D:\\CS128-8L\\AsylumEscape\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_notsafe3.jpg.flat",
+        "source": "D:\\CS128-8L\\AsylumEscape\\app\\src\\main\\res\\drawable-xhdpi\\notsafe3.jpg"
+    },
+    {
+        "merged": "D:\\CS128-8L\\AsylumEscape\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\CS128-8L\\AsylumEscape\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\CS128-8L\\AsylumEscape\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_story4.jpg.flat",
+        "source": "D:\\CS128-8L\\AsylumEscape\\app\\src\\main\\res\\drawable-xhdpi\\story4.jpg"
+    },
+    {
+        "merged": "D:\\CS128-8L\\AsylumEscape\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_mcgame_bg.jpg.flat",
+        "source": "D:\\CS128-8L\\AsylumEscape\\app\\src\\main\\res\\drawable-xhdpi\\mcgame_bg.jpg"
+    },
+    {
+        "merged": "D:\\CS128-8L\\AsylumEscape\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_card6.png.flat",
+        "source": "D:\\CS128-8L\\AsylumEscape\\app\\src\\main\\res\\drawable-xhdpi\\card6.png"
+    },
+    {
+        "merged": "D:\\CS128-8L\\AsylumEscape\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_story10.jpg.flat",
+        "source": "D:\\CS128-8L\\AsylumEscape\\app\\src\\main\\res\\drawable-xhdpi\\story10.jpg"
+    },
+    {
+        "merged": "D:\\CS128-8L\\AsylumEscape\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\CS128-8L\\AsylumEscape\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\CS128-8L\\AsylumEscape\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_story13.jpg.flat",
+        "source": "D:\\CS128-8L\\AsylumEscape\\app\\src\\main\\res\\drawable-xhdpi\\story13.jpg"
+    },
+    {
+        "merged": "D:\\CS128-8L\\AsylumEscape\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_card3.png.flat",
+        "source": "D:\\CS128-8L\\AsylumEscape\\app\\src\\main\\res\\drawable-xhdpi\\card3.png"
+    },
+    {
+        "merged": "D:\\CS128-8L\\AsylumEscape\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "D:\\CS128-8L\\AsylumEscape\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "D:\\CS128-8L\\AsylumEscape\\app\\build\\intermediates\\res\\merged\\debug\\raw_scream_death.mp3.flat",
+        "source": "D:\\CS128-8L\\AsylumEscape\\app\\src\\main\\res\\raw\\scream_death.mp3"
+    },
+    {
+        "merged": "D:\\CS128-8L\\AsylumEscape\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_home.png.flat",
+        "source": "D:\\CS128-8L\\AsylumEscape\\app\\src\\main\\res\\drawable-xhdpi\\home.png"
+    },
+    {
+        "merged": "D:\\CS128-8L\\AsylumEscape\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_re_notsafe4.xml.flat",
+        "source": "D:\\CS128-8L\\AsylumEscape\\app\\src\\main\\res\\layout\\activity_re_notsafe4.xml"
+    }
+]

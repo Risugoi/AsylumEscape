@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/mcgame_bg"
+    tools:context=".MirroredCardsGame">
+
+    <TextView
+        android:id="@+id/time"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_row="0"
+        android:layout_column="1"
+        android:layout_marginTop="70dp"
+        android:text="Time"
+        android:textColor="#FFFFFF"
+        android:textSize="20sp"
+        app:fontFamily="@font/special_elite"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <GridView
+        android:layout_marginTop="120dp"
+        android:layout_marginBottom="160dp"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/gridView"
+        android:numColumns="4"
+        android:layout_marginLeft="44dp"
+        android:layout_marginRight="44dp"
+        android:horizontalSpacing="8dp"
+        android:verticalSpacing="8dp"
+        android:padding="16dp"
+        android:clipToPadding="false"
+        android:stretchMode="columnWidth">
+    </GridView>
+
+    <Button
+        android:id="@+id/giveup"
+        android:layout_width="190dp"
+        android:layout_height="63dp"
+        android:layout_marginBottom="80dp"
+        android:background="@drawable/buttonbg"
+        android:onClick="back"
+        android:text="@string/giveup_button"
+        android:textColor="#FFFFFF"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.497"
+        app:layout_constraintStart_toStartOf="parent" />
+</androidx.constraintlayout.widget.ConstraintLayout>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.asylumescape"
+    android:targetSandboxVersion="2"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="15"
+        android:targetSdkVersion="29" />
+
+    <application
+        android:allowBackup="true"
+        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+        android:debuggable="true"
+        android:icon="@drawable/icon"
+        android:label="@string/app_name"
+        android:roundIcon="@drawable/icon"
+        android:supportsRtl="true"
+        android:testOnly="true"
+        android:theme="@style/Theme.AppCompat.NoActionBar" >
+        <activity android:name="com.example.asylumescape.RENotSafe4" />
+        <activity android:name="com.example.asylumescape.RENotSafe3" />
+        <activity android:name="com.example.asylumescape.RENotSafe2" />
+        <activity
+            android:name="com.example.asylumescape.GameHome"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.example.asylumescape.MirroredCardsHome"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.example.asylumescape.MirroredCardsGame"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.example.asylumescape.RENotSuccessful"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.example.asylumescape.RESuccessful"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.example.asylumescape.RENotSafe"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.example.asylumescape.RESafe"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.example.asylumescape.ReflexEscapeHome"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.example.asylumescape.ReflexEscapeGame"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.example.asylumescape.MCLeaderboard"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.example.asylumescape.RELeaderboard"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.example.asylumescape.Leaderboards"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.example.asylumescape.MainActivity"
+            android:screenOrientation="portrait" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+    </application>
+
+</manifest>
